@@ -1,6 +1,0 @@
-input.name=Введите имя
-report.pattern=Результаты тестирования:\n имя: %s  Количество балов: %d %s
-report.pass=Прошел
-report.fail=Не прошел
-
-
